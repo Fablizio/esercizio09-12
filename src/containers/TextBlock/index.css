@@ -1,0 +1,12 @@
+.text-block{
+    border: 1px solid #000000;
+}
+
+.text-block__nameProduct-price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-block__description{
+    text-align: justify;
+}

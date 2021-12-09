@@ -1,0 +1,44 @@
+.color-product{
+    border: 1px solid black;
+}
+
+.color__label{
+    display: flex;
+}
+
+.color-product-select{
+    height: 50px;
+    display: flex;
+}
+
+.color__black{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: black;
+}
+
+.color__darkviolet{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: darkviolet;
+}
+
+.color__yellow{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: yellow;
+}
+
+.color__gray{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: gray;
+}
