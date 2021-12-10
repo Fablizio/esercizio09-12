@@ -1,14 +1,19 @@
 .color-product{
-    border: 1px solid black;
+    height: 60px;
 }
 
 .color__label{
     display: flex;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .color-product-select{
     height: 50px;
     display: flex;
+    flex-direction: row;
+    gap: 9px;
 }
 
 .color__black{
@@ -24,7 +29,7 @@
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: darkviolet;
+    background: rgb(40, 7, 146);
 }
 
 .color__yellow{
@@ -32,7 +37,7 @@
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: yellow;
+    background: rgb(226, 226, 10);
 }
 
 .color__gray{

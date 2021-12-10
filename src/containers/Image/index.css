@@ -1,0 +1,10 @@
+.div__img__card{
+    height: 280px;
+    width: 285px;
+}
+
+.image__card{
+    border-radius: 20px;
+    width: 285px;
+    transform: scaleX(-1) ;
+}

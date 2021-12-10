@@ -1,8 +1,10 @@
-.buttonCart {
-     display: block;
-margin: 15px auto 0 auto;
-padding: 5px 10px;
-background: #1b1b1b;
-border: none;
-color: #ffffff;
+
+.btnCart{
+    width: 180px;
+    height: 40px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 28px;
 }

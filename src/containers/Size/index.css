@@ -1,9 +1,21 @@
+.size-div{
+    margin-bottom: 27px;
+}
+
 .size__product {
     display: flex;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .size__product__select{
     display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 20px;
 }
 
 .size__small{
@@ -20,7 +32,7 @@
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: grey;
+    background: rgb(185, 185, 185);
     color: black;
 }
 
@@ -29,6 +41,6 @@
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: grey;
+    background: rgb(185, 185, 185);
     color: black;
 }
