@@ -4,6 +4,7 @@ import TextBlock from '../TextBlock';
 import ColorProduct from '../Color';
 import Size from '../Size';
 import ButtonCart from '../Button';
+import vat from "../vat";
 
 const ProcutCard = () => (
     <div className="ProcutCard">

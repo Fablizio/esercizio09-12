@@ -1,6 +1,7 @@
 {
   "name": "esercizio-09-12",
   "version": "0.1.0",
+  "homepage": "http://fablizio.github.io/esercizio09-12/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
